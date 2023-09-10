@@ -1,0 +1,401 @@
+C:\Project\ФОРМА2\Game2048\obj\Debug\Game2048.exe.config
+C:\Project\ФОРМА2\Game2048\obj\Debug\Game2048.Forms.SplashForm.resources
+C:\Project\ФОРМА2\Game2048\obj\Debug\Game2048.StartForm.resources
+C:\Project\ФОРМА2\Game2048\obj\Debug\Game2048.Forms.UserMenuForm.resources
+C:\Project\ФОРМА2\Game2048\obj\Debug\Game2048.WriteLoginForm.resources
+C:\Project\ФОРМА2\Game2048\obj\Debug\Game2048.GameBoardForm.resources
+C:\Project\ФОРМА2\Game2048\obj\Debug\Game2048.Properties.Resources.resources
+C:\Project\ФОРМА2\Game2048\obj\Debug\Game2048.ScoreForm.resources
+C:\Project\ФОРМА2\Game2048\obj\Debug\Game2048.Resource1.resources
+C:\Project\ФОРМА2\Game2048\obj\Debug\Game2048.csproj.GenerateResource.cache
+C:\Project\ФОРМА2\Game2048\obj\Debug\Game2048.csproj.CoreCompileInputs.cache
+C:\Project\ФОРМА2\Game2048\bin\Debug\x86\sqlite3.dll
+C:\Project\ФОРМА2\Game2048\bin\Debug\x64\sqlite3.dll
+C:\Project\ФОРМА2\Game2048\bin\Debug\Game2048.exe.config
+C:\Project\ФОРМА2\Game2048\bin\Debug\Game2048.exe
+C:\Project\ФОРМА2\Game2048\bin\Debug\Game2048.pdb
+C:\Project\ФОРМА2\Game2048\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Project\ФОРМА2\Game2048\bin\Debug\Microsoft.Win32.Primitives.dll
+C:\Project\ФОРМА2\Game2048\bin\Debug\netstandard.dll
+C:\Project\ФОРМА2\Game2048\bin\Debug\System.AppContext.dll
+C:\Project\ФОРМА2\Game2048\bin\Debug\System.Collections.Concurrent.dll
+C:\Project\ФОРМА2\Game2048\bin\Debug\System.Collections.dll
+C:\Project\ФОРМА2\Game2048\bin\Debug\System.Collections.NonGeneric.dll
+C:\Project\ФОРМА2\Game2048\bin\Debug\System.Collections.Specialized.dll
+C:\Project\ФОРМА2\Game2048\bin\Debug\System.ComponentModel.dll
+C:\Project\ФОРМА2\Game2048\bin\Debug\System.ComponentModel.EventBasedAsync.dll
+C:\Project\ФОРМА2\Game2048\bin\Debug\System.ComponentModel.Primitives.dll
+C:\Project\ФОРМА2\Game2048\bin\Debug\System.ComponentModel.TypeConverter.dll
+C:\Project\ФОРМА2\Game2048\bin\Debug\System.Console.dll
+C:\Project\ФОРМА2\Game2048\bin\Debug\System.Data.Common.dll
+C:\Project\ФОРМА2\Game2048\bin\Debug\System.Diagnostics.Contracts.dll
+C:\Project\ФОРМА2\Game2048\bin\Debug\System.Diagnostics.Debug.dll
+C:\Project\ФОРМА2\Game2048\bin\Debug\System.Diagnostics.FileVersionInfo.dll
+C:\Project\ФОРМА2\Game2048\bin\Debug\System.Diagnostics.Process.dll
+C:\Project\ФОРМА2\Game2048\bin\Debug\System.Diagnostics.StackTrace.dll
+C:\Project\ФОРМА2\Game2048\bin\Debug\System.Diagnostics.TextWriterTraceListener.dll
+C:\Project\ФОРМА2\Game2048\bin\Debug\System.Diagnostics.Tools.dll
+C:\Project\ФОРМА2\Game2048\bin\Debug\System.Diagnostics.TraceSource.dll
+C:\Project\ФОРМА2\Game2048\bin\Debug\System.Diagnostics.Tracing.dll
+C:\Project\ФОРМА2\Game2048\bin\Debug\System.Drawing.Primitives.dll
+C:\Project\ФОРМА2\Game2048\bin\Debug\System.Dynamic.Runtime.dll
+C:\Project\ФОРМА2\Game2048\bin\Debug\System.Globalization.Calendars.dll
+C:\Project\ФОРМА2\Game2048\bin\Debug\System.Globalization.dll
+C:\Project\ФОРМА2\Game2048\bin\Debug\System.Globalization.Extensions.dll
+C:\Project\ФОРМА2\Game2048\bin\Debug\System.IO.Compression.dll
+C:\Project\ФОРМА2\Game2048\bin\Debug\System.IO.Compression.ZipFile.dll
+C:\Project\ФОРМА2\Game2048\bin\Debug\System.IO.dll
+C:\Project\ФОРМА2\Game2048\bin\Debug\System.IO.FileSystem.dll
+C:\Project\ФОРМА2\Game2048\bin\Debug\System.IO.FileSystem.DriveInfo.dll
+C:\Project\ФОРМА2\Game2048\bin\Debug\System.IO.FileSystem.Primitives.dll
+C:\Project\ФОРМА2\Game2048\bin\Debug\System.IO.FileSystem.Watcher.dll
+C:\Project\ФОРМА2\Game2048\bin\Debug\System.IO.IsolatedStorage.dll
+C:\Project\ФОРМА2\Game2048\bin\Debug\System.IO.MemoryMappedFiles.dll
+C:\Project\ФОРМА2\Game2048\bin\Debug\System.IO.Pipes.dll
+C:\Project\ФОРМА2\Game2048\bin\Debug\System.IO.UnmanagedMemoryStream.dll
+C:\Project\ФОРМА2\Game2048\bin\Debug\System.Linq.dll
+C:\Project\ФОРМА2\Game2048\bin\Debug\System.Linq.Expressions.dll
+C:\Project\ФОРМА2\Game2048\bin\Debug\System.Linq.Parallel.dll
+C:\Project\ФОРМА2\Game2048\bin\Debug\System.Linq.Queryable.dll
+C:\Project\ФОРМА2\Game2048\bin\Debug\System.Net.Http.dll
+C:\Project\ФОРМА2\Game2048\bin\Debug\System.Net.NameResolution.dll
+C:\Project\ФОРМА2\Game2048\bin\Debug\System.Net.NetworkInformation.dll
+C:\Project\ФОРМА2\Game2048\bin\Debug\System.Net.Ping.dll
+C:\Project\ФОРМА2\Game2048\bin\Debug\System.Net.Primitives.dll
+C:\Project\ФОРМА2\Game2048\bin\Debug\System.Net.Requests.dll
+C:\Project\ФОРМА2\Game2048\bin\Debug\System.Net.Security.dll
+C:\Project\ФОРМА2\Game2048\bin\Debug\System.Net.Sockets.dll
+C:\Project\ФОРМА2\Game2048\bin\Debug\System.Net.WebHeaderCollection.dll
+C:\Project\ФОРМА2\Game2048\bin\Debug\System.Net.WebSockets.Client.dll
+C:\Project\ФОРМА2\Game2048\bin\Debug\System.Net.WebSockets.dll
+C:\Project\ФОРМА2\Game2048\bin\Debug\System.ObjectModel.dll
+C:\Project\ФОРМА2\Game2048\bin\Debug\System.Reflection.dll
+C:\Project\ФОРМА2\Game2048\bin\Debug\System.Reflection.Extensions.dll
+C:\Project\ФОРМА2\Game2048\bin\Debug\System.Reflection.Primitives.dll
+C:\Project\ФОРМА2\Game2048\bin\Debug\System.Resources.Reader.dll
+C:\Project\ФОРМА2\Game2048\bin\Debug\System.Resources.ResourceManager.dll
+C:\Project\ФОРМА2\Game2048\bin\Debug\System.Resources.Writer.dll
+C:\Project\ФОРМА2\Game2048\bin\Debug\System.Runtime.CompilerServices.VisualC.dll
+C:\Project\ФОРМА2\Game2048\bin\Debug\System.Runtime.dll
+C:\Project\ФОРМА2\Game2048\bin\Debug\System.Runtime.Extensions.dll
+C:\Project\ФОРМА2\Game2048\bin\Debug\System.Runtime.Handles.dll
+C:\Project\ФОРМА2\Game2048\bin\Debug\System.Runtime.InteropServices.dll
+C:\Project\ФОРМА2\Game2048\bin\Debug\System.Runtime.Numerics.dll
+C:\Project\ФОРМА2\Game2048\bin\Debug\System.Runtime.Serialization.Formatters.dll
+C:\Project\ФОРМА2\Game2048\bin\Debug\System.Runtime.Serialization.Json.dll
+C:\Project\ФОРМА2\Game2048\bin\Debug\System.Runtime.Serialization.Primitives.dll
+C:\Project\ФОРМА2\Game2048\bin\Debug\System.Runtime.Serialization.Xml.dll
+C:\Project\ФОРМА2\Game2048\bin\Debug\System.Security.Claims.dll
+C:\Project\ФОРМА2\Game2048\bin\Debug\System.Security.Cryptography.Algorithms.dll
+C:\Project\ФОРМА2\Game2048\bin\Debug\System.Security.Cryptography.Csp.dll
+C:\Project\ФОРМА2\Game2048\bin\Debug\System.Security.Cryptography.Encoding.dll
+C:\Project\ФОРМА2\Game2048\bin\Debug\System.Security.Cryptography.Primitives.dll
+C:\Project\ФОРМА2\Game2048\bin\Debug\System.Security.Cryptography.X509Certificates.dll
+C:\Project\ФОРМА2\Game2048\bin\Debug\System.Security.Principal.dll
+C:\Project\ФОРМА2\Game2048\bin\Debug\System.Security.SecureString.dll
+C:\Project\ФОРМА2\Game2048\bin\Debug\System.Text.Encoding.dll
+C:\Project\ФОРМА2\Game2048\bin\Debug\System.Text.Encoding.Extensions.dll
+C:\Project\ФОРМА2\Game2048\bin\Debug\System.Text.RegularExpressions.dll
+C:\Project\ФОРМА2\Game2048\bin\Debug\System.Threading.dll
+C:\Project\ФОРМА2\Game2048\bin\Debug\System.Threading.Overlapped.dll
+C:\Project\ФОРМА2\Game2048\bin\Debug\System.Threading.Tasks.dll
+C:\Project\ФОРМА2\Game2048\bin\Debug\System.Threading.Tasks.Parallel.dll
+C:\Project\ФОРМА2\Game2048\bin\Debug\System.Threading.Thread.dll
+C:\Project\ФОРМА2\Game2048\bin\Debug\System.Threading.ThreadPool.dll
+C:\Project\ФОРМА2\Game2048\bin\Debug\System.Threading.Timer.dll
+C:\Project\ФОРМА2\Game2048\bin\Debug\System.ValueTuple.dll
+C:\Project\ФОРМА2\Game2048\bin\Debug\System.Xml.ReaderWriter.dll
+C:\Project\ФОРМА2\Game2048\bin\Debug\System.Xml.XDocument.dll
+C:\Project\ФОРМА2\Game2048\bin\Debug\System.Xml.XmlDocument.dll
+C:\Project\ФОРМА2\Game2048\bin\Debug\System.Xml.XmlSerializer.dll
+C:\Project\ФОРМА2\Game2048\bin\Debug\System.Xml.XPath.dll
+C:\Project\ФОРМА2\Game2048\bin\Debug\System.Xml.XPath.XDocument.dll
+C:\Project\ФОРМА2\Game2048\bin\Debug\EntityFramework.dll
+C:\Project\ФОРМА2\Game2048\bin\Debug\EntityFramework.SqlServer.dll
+C:\Project\ФОРМА2\Game2048\bin\Debug\System.Buffers.dll
+C:\Project\ФОРМА2\Game2048\bin\Debug\System.Data.SQLite.dll
+C:\Project\ФОРМА2\Game2048\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Project\ФОРМА2\Game2048\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Project\ФОРМА2\Game2048\bin\Debug\System.Memory.dll
+C:\Project\ФОРМА2\Game2048\bin\Debug\System.Numerics.Vectors.dll
+C:\Project\ФОРМА2\Game2048\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Project\ФОРМА2\Game2048\bin\Debug\EntityFramework.xml
+C:\Project\ФОРМА2\Game2048\bin\Debug\EntityFramework.SqlServer.xml
+C:\Project\ФОРМА2\Game2048\bin\Debug\System.Buffers.xml
+C:\Project\ФОРМА2\Game2048\bin\Debug\System.Data.SQLite.xml
+C:\Project\ФОРМА2\Game2048\bin\Debug\System.Memory.xml
+C:\Project\ФОРМА2\Game2048\bin\Debug\System.Numerics.Vectors.xml
+C:\Project\ФОРМА2\Game2048\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Project\ФОРМА2\Game2048\obj\Debug\Game2048.csproj.CopyComplete
+C:\Project\ФОРМА2\Game2048\obj\Debug\Game2048.exe
+C:\Project\ФОРМА2\Game2048\obj\Debug\Game2048.pdb
+C:\Project\ФОРМА2\Game2048\obj\Debug\Game2048.csproj.AssemblyReference.cache
+C:\Project\ФОРМА2\Game2048\obj\Debug\Game2048.Forms.DialogForm.resources
+D:\3 КУРС\Vers2\Game2048\bin\Debug\x86\sqlite3.dll
+D:\3 КУРС\Vers2\Game2048\bin\Debug\x64\sqlite3.dll
+D:\3 КУРС\Vers2\Game2048\bin\Debug\Game2048.exe.config
+D:\3 КУРС\Vers2\Game2048\bin\Debug\Game2048.exe
+D:\3 КУРС\Vers2\Game2048\bin\Debug\Game2048.pdb
+D:\3 КУРС\Vers2\Game2048\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\3 КУРС\Vers2\Game2048\bin\Debug\Microsoft.Win32.Primitives.dll
+D:\3 КУРС\Vers2\Game2048\bin\Debug\netstandard.dll
+D:\3 КУРС\Vers2\Game2048\bin\Debug\System.AppContext.dll
+D:\3 КУРС\Vers2\Game2048\bin\Debug\System.Collections.Concurrent.dll
+D:\3 КУРС\Vers2\Game2048\bin\Debug\System.Collections.dll
+D:\3 КУРС\Vers2\Game2048\bin\Debug\System.Collections.NonGeneric.dll
+D:\3 КУРС\Vers2\Game2048\bin\Debug\System.Collections.Specialized.dll
+D:\3 КУРС\Vers2\Game2048\bin\Debug\System.ComponentModel.dll
+D:\3 КУРС\Vers2\Game2048\bin\Debug\System.ComponentModel.EventBasedAsync.dll
+D:\3 КУРС\Vers2\Game2048\bin\Debug\System.ComponentModel.Primitives.dll
+D:\3 КУРС\Vers2\Game2048\bin\Debug\System.ComponentModel.TypeConverter.dll
+D:\3 КУРС\Vers2\Game2048\bin\Debug\System.Console.dll
+D:\3 КУРС\Vers2\Game2048\bin\Debug\System.Data.Common.dll
+D:\3 КУРС\Vers2\Game2048\bin\Debug\System.Diagnostics.Contracts.dll
+D:\3 КУРС\Vers2\Game2048\bin\Debug\System.Diagnostics.Debug.dll
+D:\3 КУРС\Vers2\Game2048\bin\Debug\System.Diagnostics.FileVersionInfo.dll
+D:\3 КУРС\Vers2\Game2048\bin\Debug\System.Diagnostics.Process.dll
+D:\3 КУРС\Vers2\Game2048\bin\Debug\System.Diagnostics.StackTrace.dll
+D:\3 КУРС\Vers2\Game2048\bin\Debug\System.Diagnostics.TextWriterTraceListener.dll
+D:\3 КУРС\Vers2\Game2048\bin\Debug\System.Diagnostics.Tools.dll
+D:\3 КУРС\Vers2\Game2048\bin\Debug\System.Diagnostics.TraceSource.dll
+D:\3 КУРС\Vers2\Game2048\bin\Debug\System.Diagnostics.Tracing.dll
+D:\3 КУРС\Vers2\Game2048\bin\Debug\System.Drawing.Primitives.dll
+D:\3 КУРС\Vers2\Game2048\bin\Debug\System.Dynamic.Runtime.dll
+D:\3 КУРС\Vers2\Game2048\bin\Debug\System.Globalization.Calendars.dll
+D:\3 КУРС\Vers2\Game2048\bin\Debug\System.Globalization.dll
+D:\3 КУРС\Vers2\Game2048\bin\Debug\System.Globalization.Extensions.dll
+D:\3 КУРС\Vers2\Game2048\bin\Debug\System.IO.Compression.dll
+D:\3 КУРС\Vers2\Game2048\bin\Debug\System.IO.Compression.ZipFile.dll
+D:\3 КУРС\Vers2\Game2048\bin\Debug\System.IO.dll
+D:\3 КУРС\Vers2\Game2048\bin\Debug\System.IO.FileSystem.dll
+D:\3 КУРС\Vers2\Game2048\bin\Debug\System.IO.FileSystem.DriveInfo.dll
+D:\3 КУРС\Vers2\Game2048\bin\Debug\System.IO.FileSystem.Primitives.dll
+D:\3 КУРС\Vers2\Game2048\bin\Debug\System.IO.FileSystem.Watcher.dll
+D:\3 КУРС\Vers2\Game2048\bin\Debug\System.IO.IsolatedStorage.dll
+D:\3 КУРС\Vers2\Game2048\bin\Debug\System.IO.MemoryMappedFiles.dll
+D:\3 КУРС\Vers2\Game2048\bin\Debug\System.IO.Pipes.dll
+D:\3 КУРС\Vers2\Game2048\bin\Debug\System.IO.UnmanagedMemoryStream.dll
+D:\3 КУРС\Vers2\Game2048\bin\Debug\System.Linq.dll
+D:\3 КУРС\Vers2\Game2048\bin\Debug\System.Linq.Expressions.dll
+D:\3 КУРС\Vers2\Game2048\bin\Debug\System.Linq.Parallel.dll
+D:\3 КУРС\Vers2\Game2048\bin\Debug\System.Linq.Queryable.dll
+D:\3 КУРС\Vers2\Game2048\bin\Debug\System.Net.Http.dll
+D:\3 КУРС\Vers2\Game2048\bin\Debug\System.Net.NameResolution.dll
+D:\3 КУРС\Vers2\Game2048\bin\Debug\System.Net.NetworkInformation.dll
+D:\3 КУРС\Vers2\Game2048\bin\Debug\System.Net.Ping.dll
+D:\3 КУРС\Vers2\Game2048\bin\Debug\System.Net.Primitives.dll
+D:\3 КУРС\Vers2\Game2048\bin\Debug\System.Net.Requests.dll
+D:\3 КУРС\Vers2\Game2048\bin\Debug\System.Net.Security.dll
+D:\3 КУРС\Vers2\Game2048\bin\Debug\System.Net.Sockets.dll
+D:\3 КУРС\Vers2\Game2048\bin\Debug\System.Net.WebHeaderCollection.dll
+D:\3 КУРС\Vers2\Game2048\bin\Debug\System.Net.WebSockets.Client.dll
+D:\3 КУРС\Vers2\Game2048\bin\Debug\System.Net.WebSockets.dll
+D:\3 КУРС\Vers2\Game2048\bin\Debug\System.ObjectModel.dll
+D:\3 КУРС\Vers2\Game2048\bin\Debug\System.Reflection.dll
+D:\3 КУРС\Vers2\Game2048\bin\Debug\System.Reflection.Extensions.dll
+D:\3 КУРС\Vers2\Game2048\bin\Debug\System.Reflection.Primitives.dll
+D:\3 КУРС\Vers2\Game2048\bin\Debug\System.Resources.Reader.dll
+D:\3 КУРС\Vers2\Game2048\bin\Debug\System.Resources.ResourceManager.dll
+D:\3 КУРС\Vers2\Game2048\bin\Debug\System.Resources.Writer.dll
+D:\3 КУРС\Vers2\Game2048\bin\Debug\System.Runtime.CompilerServices.VisualC.dll
+D:\3 КУРС\Vers2\Game2048\bin\Debug\System.Runtime.dll
+D:\3 КУРС\Vers2\Game2048\bin\Debug\System.Runtime.Extensions.dll
+D:\3 КУРС\Vers2\Game2048\bin\Debug\System.Runtime.Handles.dll
+D:\3 КУРС\Vers2\Game2048\bin\Debug\System.Runtime.InteropServices.dll
+D:\3 КУРС\Vers2\Game2048\bin\Debug\System.Runtime.Numerics.dll
+D:\3 КУРС\Vers2\Game2048\bin\Debug\System.Runtime.Serialization.Formatters.dll
+D:\3 КУРС\Vers2\Game2048\bin\Debug\System.Runtime.Serialization.Json.dll
+D:\3 КУРС\Vers2\Game2048\bin\Debug\System.Runtime.Serialization.Primitives.dll
+D:\3 КУРС\Vers2\Game2048\bin\Debug\System.Runtime.Serialization.Xml.dll
+D:\3 КУРС\Vers2\Game2048\bin\Debug\System.Security.Claims.dll
+D:\3 КУРС\Vers2\Game2048\bin\Debug\System.Security.Cryptography.Algorithms.dll
+D:\3 КУРС\Vers2\Game2048\bin\Debug\System.Security.Cryptography.Csp.dll
+D:\3 КУРС\Vers2\Game2048\bin\Debug\System.Security.Cryptography.Encoding.dll
+D:\3 КУРС\Vers2\Game2048\bin\Debug\System.Security.Cryptography.Primitives.dll
+D:\3 КУРС\Vers2\Game2048\bin\Debug\System.Security.Cryptography.X509Certificates.dll
+D:\3 КУРС\Vers2\Game2048\bin\Debug\System.Security.Principal.dll
+D:\3 КУРС\Vers2\Game2048\bin\Debug\System.Security.SecureString.dll
+D:\3 КУРС\Vers2\Game2048\bin\Debug\System.Text.Encoding.dll
+D:\3 КУРС\Vers2\Game2048\bin\Debug\System.Text.Encoding.Extensions.dll
+D:\3 КУРС\Vers2\Game2048\bin\Debug\System.Text.RegularExpressions.dll
+D:\3 КУРС\Vers2\Game2048\bin\Debug\System.Threading.dll
+D:\3 КУРС\Vers2\Game2048\bin\Debug\System.Threading.Overlapped.dll
+D:\3 КУРС\Vers2\Game2048\bin\Debug\System.Threading.Tasks.dll
+D:\3 КУРС\Vers2\Game2048\bin\Debug\System.Threading.Tasks.Parallel.dll
+D:\3 КУРС\Vers2\Game2048\bin\Debug\System.Threading.Thread.dll
+D:\3 КУРС\Vers2\Game2048\bin\Debug\System.Threading.ThreadPool.dll
+D:\3 КУРС\Vers2\Game2048\bin\Debug\System.Threading.Timer.dll
+D:\3 КУРС\Vers2\Game2048\bin\Debug\System.ValueTuple.dll
+D:\3 КУРС\Vers2\Game2048\bin\Debug\System.Xml.ReaderWriter.dll
+D:\3 КУРС\Vers2\Game2048\bin\Debug\System.Xml.XDocument.dll
+D:\3 КУРС\Vers2\Game2048\bin\Debug\System.Xml.XmlDocument.dll
+D:\3 КУРС\Vers2\Game2048\bin\Debug\System.Xml.XmlSerializer.dll
+D:\3 КУРС\Vers2\Game2048\bin\Debug\System.Xml.XPath.dll
+D:\3 КУРС\Vers2\Game2048\bin\Debug\System.Xml.XPath.XDocument.dll
+D:\3 КУРС\Vers2\Game2048\bin\Debug\EntityFramework.dll
+D:\3 КУРС\Vers2\Game2048\bin\Debug\EntityFramework.SqlServer.dll
+D:\3 КУРС\Vers2\Game2048\bin\Debug\System.Buffers.dll
+D:\3 КУРС\Vers2\Game2048\bin\Debug\System.Data.SQLite.dll
+D:\3 КУРС\Vers2\Game2048\bin\Debug\System.Data.SQLite.EF6.dll
+D:\3 КУРС\Vers2\Game2048\bin\Debug\System.Data.SQLite.Linq.dll
+D:\3 КУРС\Vers2\Game2048\bin\Debug\System.Memory.dll
+D:\3 КУРС\Vers2\Game2048\bin\Debug\System.Numerics.Vectors.dll
+D:\3 КУРС\Vers2\Game2048\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\3 КУРС\Vers2\Game2048\bin\Debug\EntityFramework.xml
+D:\3 КУРС\Vers2\Game2048\bin\Debug\EntityFramework.SqlServer.xml
+D:\3 КУРС\Vers2\Game2048\bin\Debug\System.Buffers.xml
+D:\3 КУРС\Vers2\Game2048\bin\Debug\System.Data.SQLite.xml
+D:\3 КУРС\Vers2\Game2048\bin\Debug\System.Memory.xml
+D:\3 КУРС\Vers2\Game2048\bin\Debug\System.Numerics.Vectors.xml
+D:\3 КУРС\Vers2\Game2048\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\3 КУРС\Vers2\Game2048\obj\Debug\Game2048.csproj.AssemblyReference.cache
+D:\3 КУРС\Vers2\Game2048\obj\Debug\Game2048.exe.config
+D:\3 КУРС\Vers2\Game2048\obj\Debug\Game2048.Forms.DialogForm.resources
+D:\3 КУРС\Vers2\Game2048\obj\Debug\Game2048.Forms.SplashForm.resources
+D:\3 КУРС\Vers2\Game2048\obj\Debug\Game2048.StartForm.resources
+D:\3 КУРС\Vers2\Game2048\obj\Debug\Game2048.Forms.UserMenuForm.resources
+D:\3 КУРС\Vers2\Game2048\obj\Debug\Game2048.WriteLoginForm.resources
+D:\3 КУРС\Vers2\Game2048\obj\Debug\Game2048.GameBoardForm.resources
+D:\3 КУРС\Vers2\Game2048\obj\Debug\Game2048.Properties.Resources.resources
+D:\3 КУРС\Vers2\Game2048\obj\Debug\Game2048.ScoreForm.resources
+D:\3 КУРС\Vers2\Game2048\obj\Debug\Game2048.Resource1.resources
+D:\3 КУРС\Vers2\Game2048\obj\Debug\Game2048.csproj.GenerateResource.cache
+D:\3 КУРС\Vers2\Game2048\obj\Debug\Game2048.csproj.CoreCompileInputs.cache
+D:\3 КУРС\Vers2\Game2048\obj\Debug\Game2048.csproj.CopyComplete
+D:\3 КУРС\Vers2\Game2048\obj\Debug\Game2048.exe
+D:\3 КУРС\Vers2\Game2048\obj\Debug\Game2048.pdb
+D:\3 КУРС\Vers2\Game2048\obj\Debug\Game2048.Forms.InformationForm.resources
+D:\3 КУРС\Версия2\Game2048\bin\Debug\x86\sqlite3.dll
+D:\3 КУРС\Версия2\Game2048\bin\Debug\x64\sqlite3.dll
+D:\3 КУРС\Версия2\Game2048\bin\Debug\Game2048.exe.config
+D:\3 КУРС\Версия2\Game2048\bin\Debug\Game2048.exe
+D:\3 КУРС\Версия2\Game2048\bin\Debug\Game2048.pdb
+D:\3 КУРС\Версия2\Game2048\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\3 КУРС\Версия2\Game2048\bin\Debug\Microsoft.Win32.Primitives.dll
+D:\3 КУРС\Версия2\Game2048\bin\Debug\netstandard.dll
+D:\3 КУРС\Версия2\Game2048\bin\Debug\System.AppContext.dll
+D:\3 КУРС\Версия2\Game2048\bin\Debug\System.Collections.Concurrent.dll
+D:\3 КУРС\Версия2\Game2048\bin\Debug\System.Collections.dll
+D:\3 КУРС\Версия2\Game2048\bin\Debug\System.Collections.NonGeneric.dll
+D:\3 КУРС\Версия2\Game2048\bin\Debug\System.Collections.Specialized.dll
+D:\3 КУРС\Версия2\Game2048\bin\Debug\System.ComponentModel.dll
+D:\3 КУРС\Версия2\Game2048\bin\Debug\System.ComponentModel.EventBasedAsync.dll
+D:\3 КУРС\Версия2\Game2048\bin\Debug\System.ComponentModel.Primitives.dll
+D:\3 КУРС\Версия2\Game2048\bin\Debug\System.ComponentModel.TypeConverter.dll
+D:\3 КУРС\Версия2\Game2048\bin\Debug\System.Console.dll
+D:\3 КУРС\Версия2\Game2048\bin\Debug\System.Data.Common.dll
+D:\3 КУРС\Версия2\Game2048\bin\Debug\System.Diagnostics.Contracts.dll
+D:\3 КУРС\Версия2\Game2048\bin\Debug\System.Diagnostics.Debug.dll
+D:\3 КУРС\Версия2\Game2048\bin\Debug\System.Diagnostics.FileVersionInfo.dll
+D:\3 КУРС\Версия2\Game2048\bin\Debug\System.Diagnostics.Process.dll
+D:\3 КУРС\Версия2\Game2048\bin\Debug\System.Diagnostics.StackTrace.dll
+D:\3 КУРС\Версия2\Game2048\bin\Debug\System.Diagnostics.TextWriterTraceListener.dll
+D:\3 КУРС\Версия2\Game2048\bin\Debug\System.Diagnostics.Tools.dll
+D:\3 КУРС\Версия2\Game2048\bin\Debug\System.Diagnostics.TraceSource.dll
+D:\3 КУРС\Версия2\Game2048\bin\Debug\System.Diagnostics.Tracing.dll
+D:\3 КУРС\Версия2\Game2048\bin\Debug\System.Drawing.Primitives.dll
+D:\3 КУРС\Версия2\Game2048\bin\Debug\System.Dynamic.Runtime.dll
+D:\3 КУРС\Версия2\Game2048\bin\Debug\System.Globalization.Calendars.dll
+D:\3 КУРС\Версия2\Game2048\bin\Debug\System.Globalization.dll
+D:\3 КУРС\Версия2\Game2048\bin\Debug\System.Globalization.Extensions.dll
+D:\3 КУРС\Версия2\Game2048\bin\Debug\System.IO.Compression.dll
+D:\3 КУРС\Версия2\Game2048\bin\Debug\System.IO.Compression.ZipFile.dll
+D:\3 КУРС\Версия2\Game2048\bin\Debug\System.IO.dll
+D:\3 КУРС\Версия2\Game2048\bin\Debug\System.IO.FileSystem.dll
+D:\3 КУРС\Версия2\Game2048\bin\Debug\System.IO.FileSystem.DriveInfo.dll
+D:\3 КУРС\Версия2\Game2048\bin\Debug\System.IO.FileSystem.Primitives.dll
+D:\3 КУРС\Версия2\Game2048\bin\Debug\System.IO.FileSystem.Watcher.dll
+D:\3 КУРС\Версия2\Game2048\bin\Debug\System.IO.IsolatedStorage.dll
+D:\3 КУРС\Версия2\Game2048\bin\Debug\System.IO.MemoryMappedFiles.dll
+D:\3 КУРС\Версия2\Game2048\bin\Debug\System.IO.Pipes.dll
+D:\3 КУРС\Версия2\Game2048\bin\Debug\System.IO.UnmanagedMemoryStream.dll
+D:\3 КУРС\Версия2\Game2048\bin\Debug\System.Linq.dll
+D:\3 КУРС\Версия2\Game2048\bin\Debug\System.Linq.Expressions.dll
+D:\3 КУРС\Версия2\Game2048\bin\Debug\System.Linq.Parallel.dll
+D:\3 КУРС\Версия2\Game2048\bin\Debug\System.Linq.Queryable.dll
+D:\3 КУРС\Версия2\Game2048\bin\Debug\System.Net.Http.dll
+D:\3 КУРС\Версия2\Game2048\bin\Debug\System.Net.NameResolution.dll
+D:\3 КУРС\Версия2\Game2048\bin\Debug\System.Net.NetworkInformation.dll
+D:\3 КУРС\Версия2\Game2048\bin\Debug\System.Net.Ping.dll
+D:\3 КУРС\Версия2\Game2048\bin\Debug\System.Net.Primitives.dll
+D:\3 КУРС\Версия2\Game2048\bin\Debug\System.Net.Requests.dll
+D:\3 КУРС\Версия2\Game2048\bin\Debug\System.Net.Security.dll
+D:\3 КУРС\Версия2\Game2048\bin\Debug\System.Net.Sockets.dll
+D:\3 КУРС\Версия2\Game2048\bin\Debug\System.Net.WebHeaderCollection.dll
+D:\3 КУРС\Версия2\Game2048\bin\Debug\System.Net.WebSockets.Client.dll
+D:\3 КУРС\Версия2\Game2048\bin\Debug\System.Net.WebSockets.dll
+D:\3 КУРС\Версия2\Game2048\bin\Debug\System.ObjectModel.dll
+D:\3 КУРС\Версия2\Game2048\bin\Debug\System.Reflection.dll
+D:\3 КУРС\Версия2\Game2048\bin\Debug\System.Reflection.Extensions.dll
+D:\3 КУРС\Версия2\Game2048\bin\Debug\System.Reflection.Primitives.dll
+D:\3 КУРС\Версия2\Game2048\bin\Debug\System.Resources.Reader.dll
+D:\3 КУРС\Версия2\Game2048\bin\Debug\System.Resources.ResourceManager.dll
+D:\3 КУРС\Версия2\Game2048\bin\Debug\System.Resources.Writer.dll
+D:\3 КУРС\Версия2\Game2048\bin\Debug\System.Runtime.CompilerServices.VisualC.dll
+D:\3 КУРС\Версия2\Game2048\bin\Debug\System.Runtime.dll
+D:\3 КУРС\Версия2\Game2048\bin\Debug\System.Runtime.Extensions.dll
+D:\3 КУРС\Версия2\Game2048\bin\Debug\System.Runtime.Handles.dll
+D:\3 КУРС\Версия2\Game2048\bin\Debug\System.Runtime.InteropServices.dll
+D:\3 КУРС\Версия2\Game2048\bin\Debug\System.Runtime.Numerics.dll
+D:\3 КУРС\Версия2\Game2048\bin\Debug\System.Runtime.Serialization.Formatters.dll
+D:\3 КУРС\Версия2\Game2048\bin\Debug\System.Runtime.Serialization.Json.dll
+D:\3 КУРС\Версия2\Game2048\bin\Debug\System.Runtime.Serialization.Primitives.dll
+D:\3 КУРС\Версия2\Game2048\bin\Debug\System.Runtime.Serialization.Xml.dll
+D:\3 КУРС\Версия2\Game2048\bin\Debug\System.Security.Claims.dll
+D:\3 КУРС\Версия2\Game2048\bin\Debug\System.Security.Cryptography.Algorithms.dll
+D:\3 КУРС\Версия2\Game2048\bin\Debug\System.Security.Cryptography.Csp.dll
+D:\3 КУРС\Версия2\Game2048\bin\Debug\System.Security.Cryptography.Encoding.dll
+D:\3 КУРС\Версия2\Game2048\bin\Debug\System.Security.Cryptography.Primitives.dll
+D:\3 КУРС\Версия2\Game2048\bin\Debug\System.Security.Cryptography.X509Certificates.dll
+D:\3 КУРС\Версия2\Game2048\bin\Debug\System.Security.Principal.dll
+D:\3 КУРС\Версия2\Game2048\bin\Debug\System.Security.SecureString.dll
+D:\3 КУРС\Версия2\Game2048\bin\Debug\System.Text.Encoding.dll
+D:\3 КУРС\Версия2\Game2048\bin\Debug\System.Text.Encoding.Extensions.dll
+D:\3 КУРС\Версия2\Game2048\bin\Debug\System.Text.RegularExpressions.dll
+D:\3 КУРС\Версия2\Game2048\bin\Debug\System.Threading.dll
+D:\3 КУРС\Версия2\Game2048\bin\Debug\System.Threading.Overlapped.dll
+D:\3 КУРС\Версия2\Game2048\bin\Debug\System.Threading.Tasks.dll
+D:\3 КУРС\Версия2\Game2048\bin\Debug\System.Threading.Tasks.Parallel.dll
+D:\3 КУРС\Версия2\Game2048\bin\Debug\System.Threading.Thread.dll
+D:\3 КУРС\Версия2\Game2048\bin\Debug\System.Threading.ThreadPool.dll
+D:\3 КУРС\Версия2\Game2048\bin\Debug\System.Threading.Timer.dll
+D:\3 КУРС\Версия2\Game2048\bin\Debug\System.ValueTuple.dll
+D:\3 КУРС\Версия2\Game2048\bin\Debug\System.Xml.ReaderWriter.dll
+D:\3 КУРС\Версия2\Game2048\bin\Debug\System.Xml.XDocument.dll
+D:\3 КУРС\Версия2\Game2048\bin\Debug\System.Xml.XmlDocument.dll
+D:\3 КУРС\Версия2\Game2048\bin\Debug\System.Xml.XmlSerializer.dll
+D:\3 КУРС\Версия2\Game2048\bin\Debug\System.Xml.XPath.dll
+D:\3 КУРС\Версия2\Game2048\bin\Debug\System.Xml.XPath.XDocument.dll
+D:\3 КУРС\Версия2\Game2048\bin\Debug\EntityFramework.dll
+D:\3 КУРС\Версия2\Game2048\bin\Debug\EntityFramework.SqlServer.dll
+D:\3 КУРС\Версия2\Game2048\bin\Debug\System.Buffers.dll
+D:\3 КУРС\Версия2\Game2048\bin\Debug\System.Data.SQLite.dll
+D:\3 КУРС\Версия2\Game2048\bin\Debug\System.Data.SQLite.EF6.dll
+D:\3 КУРС\Версия2\Game2048\bin\Debug\System.Data.SQLite.Linq.dll
+D:\3 КУРС\Версия2\Game2048\bin\Debug\System.Memory.dll
+D:\3 КУРС\Версия2\Game2048\bin\Debug\System.Numerics.Vectors.dll
+D:\3 КУРС\Версия2\Game2048\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\3 КУРС\Версия2\Game2048\bin\Debug\EntityFramework.xml
+D:\3 КУРС\Версия2\Game2048\bin\Debug\EntityFramework.SqlServer.xml
+D:\3 КУРС\Версия2\Game2048\bin\Debug\System.Buffers.xml
+D:\3 КУРС\Версия2\Game2048\bin\Debug\System.Data.SQLite.xml
+D:\3 КУРС\Версия2\Game2048\bin\Debug\System.Memory.xml
+D:\3 КУРС\Версия2\Game2048\bin\Debug\System.Numerics.Vectors.xml
+D:\3 КУРС\Версия2\Game2048\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\3 КУРС\Версия2\Game2048\obj\Debug\Game2048.csproj.AssemblyReference.cache
+D:\3 КУРС\Версия2\Game2048\obj\Debug\Game2048.exe.config
+D:\3 КУРС\Версия2\Game2048\obj\Debug\Game2048.Forms.DialogForm.resources
+D:\3 КУРС\Версия2\Game2048\obj\Debug\Game2048.Forms.InformationForm.resources
+D:\3 КУРС\Версия2\Game2048\obj\Debug\Game2048.Forms.SplashForm.resources
+D:\3 КУРС\Версия2\Game2048\obj\Debug\Game2048.StartForm.resources
+D:\3 КУРС\Версия2\Game2048\obj\Debug\Game2048.Forms.UserMenuForm.resources
+D:\3 КУРС\Версия2\Game2048\obj\Debug\Game2048.WriteLoginForm.resources
+D:\3 КУРС\Версия2\Game2048\obj\Debug\Game2048.GameBoardForm.resources
+D:\3 КУРС\Версия2\Game2048\obj\Debug\Game2048.Properties.Resources.resources
+D:\3 КУРС\Версия2\Game2048\obj\Debug\Game2048.ScoreForm.resources
+D:\3 КУРС\Версия2\Game2048\obj\Debug\Game2048.Resource1.resources
+D:\3 КУРС\Версия2\Game2048\obj\Debug\Game2048.csproj.GenerateResource.cache
+D:\3 КУРС\Версия2\Game2048\obj\Debug\Game2048.csproj.CoreCompileInputs.cache
+D:\3 КУРС\Версия2\Game2048\obj\Debug\Game2048.csproj.CopyComplete
+D:\3 КУРС\Версия2\Game2048\obj\Debug\Game2048.exe
+D:\3 КУРС\Версия2\Game2048\obj\Debug\Game2048.pdb
