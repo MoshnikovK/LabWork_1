@@ -108,12 +108,12 @@ namespace Game2048
         {
             switch (tile.Value)
             {
-                case 2:
-                    return Color.FromArgb(238, 228, 218);
-                case 4:
-                    return Color.FromArgb(237, 224, 200);
-                case 8:
-                    return Color.FromArgb(242, 177, 121);
+                //case 2:
+                 //   return Color.FromArgb(238, 228, 218);
+               // case 4:
+                 //   return Color.FromArgb(237, 224, 200);
+                //case 8:
+                   // return Color.FromArgb(242, 177, 121);
                 case 16:
                     return Color.FromArgb(245, 149, 99);
                 case 32:
@@ -124,14 +124,15 @@ namespace Game2048
                     return Color.FromArgb(237, 207, 114);
                 case 256:
                     return Color.FromArgb(237, 204, 97);
-                case 512:
-                    return Color.FromArgb(237, 200, 80);
-                case 1024:
-                    return Color.FromArgb(237, 197, 63);
-                case 2048:
-                    return Color.FromArgb(237, 194, 46);
+                //case 512:
+                //    return Color.FromArgb(237, 200, 80);
+                //case 1024:
+                //    return Color.FromArgb(237, 197, 63);
+                //case 2048:
+                //    return Color.FromArgb(237, 194, 46);
                 default:
                     return Color.FromArgb(205, 193, 180);
+                    //Изменения в Лабораторной #1
             }
         }
 
